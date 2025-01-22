@@ -7,8 +7,8 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    ut << "Sergio solis diaz\n";
-    ut << "2do tecnologias de software\n";
+    cout << "Sergio solis diaz\n";
+    cout << "2do tecnologias de software\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
